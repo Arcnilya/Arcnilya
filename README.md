@@ -1,16 +1,18 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**Arcnilya/Arcnilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jonathan and I am currently a PhD student in computer science at [Karlstad University](https://www.kau.se) (KAU).
+My area of research is Cybersecurity and Network Analysis of the Domain Name System, funded by [Internetstiftelsen](https://internetstiftelsen.se/) (the Swedish Internet Foundation).
+Here are a few repositories related to my research at KAU:
+- https://github.com/Arcnilya/dohot
+- https://github.com/Arcnilya/qminsim
+- https://github.com/Arcnilya/ripe-atlas-api
+- https://github.com/Arcnilya/qmintel
+- https://github.com/Arcnilya/resolver-lab
+- https://github.com/Arcnilya/qmin2022
 
-Here are some ideas to get you started:
+You can read more about my research at:
+- https://www.jonathanmagnusson.com
+- https://www.kau.se/en/researchers/jonathan-magnusson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my research, I have also been active in ethical hacking education. 
+Especially designing, developing, testing, and running a cyber range environment called [Cyber Range Lite](https://git.cs.kau.se/csma/cyber-range/) (CRL).
